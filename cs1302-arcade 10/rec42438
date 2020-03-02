@@ -1,0 +1,73 @@
+cs1302-arcade:
+total 64
+-rw-r--r-- 1 ugrad 19121 Nov 26 09:52 LICENSE
+-rw-r--r-- 1 ugrad   207 Nov 26 09:52 Makefile
+-rw-r--r-- 1 ugrad  1942 Nov 26 09:52 pom.xml
+-rw-r--r-- 1 ugrad 22960 Nov 26 09:52 README.md
+-rw-r--r-- 1 ugrad     0 Nov 29 11:12 rec42438
+-rw-r--r-- 1 ugrad   554 Nov 29 11:12 REFLECTION.md
+drwxr-xr-x 3 ugrad  4096 Nov 26 09:52 src
+drwxr-xr-x 5 ugrad  4096 Nov 26 09:52 target
+
+cs1302-arcade/src:
+total 4
+drwxr-xr-x 3 ugrad 4096 Nov 26 09:52 main
+
+cs1302-arcade/src/main:
+total 4
+drwxr-xr-x 3 ugrad 4096 Nov 26 09:52 java
+
+cs1302-arcade/src/main/java:
+total 4
+drwxr-xr-x 3 ugrad 4096 Nov 26 09:52 cs1302
+
+cs1302-arcade/src/main/java/cs1302:
+total 4
+drwxr-xr-x 2 ugrad 4096 Nov 26 09:54 arcade
+
+cs1302-arcade/src/main/java/cs1302/arcade:
+total 4
+-rw-r--r-- 1 ugrad 2315 Nov 26 09:52 ArcadeApp.java
+
+cs1302-arcade/target:
+total 12
+drwxr-xr-x 3 ugrad 4096 Nov 26 09:52 classes
+drwxr-xr-x 3 ugrad 4096 Nov 26 09:52 generated-sources
+drwxr-xr-x 3 ugrad 4096 Nov 26 09:52 maven-status
+
+cs1302-arcade/target/classes:
+total 4
+drwxr-xr-x 3 ugrad 4096 Nov 26 09:52 cs1302
+
+cs1302-arcade/target/classes/cs1302:
+total 4
+drwxr-xr-x 2 ugrad 4096 Nov 26 09:52 arcade
+
+cs1302-arcade/target/classes/cs1302/arcade:
+total 4
+-rw-r--r-- 1 ugrad 3708 Nov 26 09:52 ArcadeApp.class
+
+cs1302-arcade/target/generated-sources:
+total 4
+drwxr-xr-x 2 ugrad 4096 Nov 26 09:52 annotations
+
+cs1302-arcade/target/generated-sources/annotations:
+total 0
+
+cs1302-arcade/target/maven-status:
+total 4
+drwxr-xr-x 3 ugrad 4096 Nov 26 09:52 maven-compiler-plugin
+
+cs1302-arcade/target/maven-status/maven-compiler-plugin:
+total 4
+drwxr-xr-x 3 ugrad 4096 Nov 26 09:52 compile
+
+cs1302-arcade/target/maven-status/maven-compiler-plugin/compile:
+total 4
+drwxr-xr-x 2 ugrad 4096 Nov 26 09:52 default-compile
+
+cs1302-arcade/target/maven-status/maven-compiler-plugin/compile/default-compile:
+total 8
+-rw-r--r-- 1 ugrad 30 Nov 26 09:52 createdFiles.lst
+-rw-r--r-- 1 ugrad 84 Nov 26 09:52 inputFiles.lst
+/home/ugrads/shuhan/cs1302/cs1302-arcade:/home/work/cs1302a

@@ -1,0 +1,76 @@
+cs1302-arcade:
+total 72
+-rw-r--r-- 1 ugrad   463 Nov 29 22:59 CSS_Sudoku_Grid.css
+-rw-r--r-- 1 ugrad 19121 Nov 26 09:52 LICENSE
+-rw-r--r-- 1 ugrad   207 Nov 26 09:52 Makefile
+-rw-r--r-- 1 ugrad  1942 Nov 26 09:52 pom.xml
+-rw-r--r-- 1 ugrad 22960 Nov 26 09:52 README.md
+-rw-r--r-- 1 ugrad     0 Dec 11 00:21 rec1559
+-rw-r--r-- 1 ugrad  2030 Nov 29 11:12 rec42438
+-rw-r--r-- 1 ugrad  1829 Dec 11 00:19 REFLECTION.md
+drwxr-xr-x 3 ugrad  4096 Nov 26 09:52 src
+drwxr-xr-x 5 ugrad  4096 Dec  7 15:42 target
+
+cs1302-arcade/src:
+total 4
+drwxr-xr-x 3 ugrad 4096 Nov 26 09:52 main
+
+cs1302-arcade/src/main:
+total 4
+drwxr-xr-x 3 ugrad 4096 Nov 26 09:52 java
+
+cs1302-arcade/src/main/java:
+total 4
+drwxr-xr-x 3 ugrad 4096 Nov 26 09:52 cs1302
+
+cs1302-arcade/src/main/java/cs1302:
+total 4
+drwxr-xr-x 2 ugrad 4096 Dec 11 00:01 arcade
+
+cs1302-arcade/src/main/java/cs1302/arcade:
+total 36
+-rw-r--r-- 1 ugrad 24495 Dec 11 00:01 ArcadeApp.java
+-rw-r--r-- 1 ugrad  9827 Dec 10 22:33 ArcadeApp.java.bk
+
+cs1302-arcade/target:
+total 12
+drwxr-xr-x 3 ugrad 4096 Dec  7 15:42 classes
+drwxr-xr-x 3 ugrad 4096 Dec  7 15:42 generated-sources
+drwxr-xr-x 3 ugrad 4096 Dec  7 15:42 maven-status
+
+cs1302-arcade/target/classes:
+total 4
+drwxr-xr-x 3 ugrad 4096 Dec  7 15:42 cs1302
+
+cs1302-arcade/target/classes/cs1302:
+total 4
+drwxr-xr-x 2 ugrad 4096 Dec 10 23:25 arcade
+
+cs1302-arcade/target/classes/cs1302/arcade:
+total 24
+-rw-r--r-- 1 ugrad 22407 Dec 10 23:25 ArcadeApp.class
+
+cs1302-arcade/target/generated-sources:
+total 4
+drwxr-xr-x 2 ugrad 4096 Dec  7 15:42 annotations
+
+cs1302-arcade/target/generated-sources/annotations:
+total 0
+
+cs1302-arcade/target/maven-status:
+total 4
+drwxr-xr-x 3 ugrad 4096 Dec  7 15:42 maven-compiler-plugin
+
+cs1302-arcade/target/maven-status/maven-compiler-plugin:
+total 4
+drwxr-xr-x 3 ugrad 4096 Dec  7 15:42 compile
+
+cs1302-arcade/target/maven-status/maven-compiler-plugin/compile:
+total 4
+drwxr-xr-x 2 ugrad 4096 Dec  7 15:42 default-compile
+
+cs1302-arcade/target/maven-status/maven-compiler-plugin/compile/default-compile:
+total 8
+-rw-r--r-- 1 ugrad 30 Dec 10 23:25 createdFiles.lst
+-rw-r--r-- 1 ugrad 84 Dec 10 23:53 inputFiles.lst
+/home/ugrads/shuhan/cs1302/cs1302-arcade:/home/work/cs1302a
